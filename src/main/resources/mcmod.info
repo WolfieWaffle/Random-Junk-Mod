@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wolfie_waffle:randomjunk",
+  "name": "Random Junk",
+  "description": "Literally Random Junk",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Wolfie_Waffle"],
+  "credits": "Wolfie_Waffle",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
